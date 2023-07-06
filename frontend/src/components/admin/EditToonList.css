@@ -1,0 +1,10 @@
+.editList-container {
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+th.action,
+td.action {
+    text-align: right !important;
+}
