@@ -1,11 +1,15 @@
 # Toon Website
 <br>
 
+---
+
 ## 프로젝트 소개
 - React를 사용하여 개발한 만화 홈페이지의 프론트엔드 입니다.
 - REST API로 백엔드와 연동할 수 있도록 API통신 부분을 구현했습니다.
 
 <br>
+
+---
 
 ## 개발 환경
 
@@ -16,6 +20,8 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </div>
 <br>
+
+---
 
 ## 주요 기능
 ### 공통 기능
@@ -28,6 +34,9 @@
 - 만화 등록, 수정, 삭제
 - 에피소드 등록, 수정, 삭제
 
+<br>
+
+---
 
 ## 실행 이미지
 
